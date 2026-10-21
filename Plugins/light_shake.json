@@ -1,0 +1,9 @@
+{
+  "id": "light_shake",
+  "title": "Light shake / 小さな揺れ",
+  "type": "shake",
+  "a": 0.06,
+  "b": 12.0,
+  "c": 1.0,
+  "d": 1.0
+}
